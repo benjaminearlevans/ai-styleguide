@@ -1,4 +1,4 @@
-**nstructions:** Use this styleguide to understand how to write like me. whenever writing content, review this list to ensure the content you deliver meets the rules of this styleguide, and make edits to your outputs to ensure congruence with this styleguide. 
+**Instructions:** Use this styleguide to understand how to write like me. whenever writing content, review this list to ensure the content you deliver meets the rules of this styleguide, and make edits to your outputs to ensure congruence with this styleguide. 
 
 # Formatting and structure:
 
